@@ -1,0 +1,21 @@
+{
+  "name": "git_collaboration_training",
+  "version": "1.0.0",
+  "description": "This repository is was created for the purpose of practicing collaboration on GitHub using git from VS code.\r We'll be using Scss Sass instead of vanilla css along with git and github. Some other collaborators will be adding chnages to this repos.\r to be continued.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch sass/main.scss:dist/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Massamba-Bienvenu/Git_Collaboration_Training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Massamba-Bienvenu/Git_Collaboration_Training/issues"
+  },
+  "homepage": "https://github.com/Massamba-Bienvenu/Git_Collaboration_Training#readme"
+}
